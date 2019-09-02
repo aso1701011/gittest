@@ -1,3 +1,3 @@
 <?php
- print("Hellow GIt");
+ print("Hellow GIt!");
  ?>
